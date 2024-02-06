@@ -1,0 +1,11 @@
+{
+	"libs": [
+		"PyQt6",
+		"requests",
+		"packaging",
+		"show-in-file-explorer"
+	],
+	"content": [
+		"crys"
+	]
+}
