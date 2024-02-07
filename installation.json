@@ -3,7 +3,7 @@
 		"PyQt6",
 		"requests",
 		"packaging",
-		"show-in-file-explorer"
+		"show-in-file-manager"
 	],
 	"content": [
 		"crys"
